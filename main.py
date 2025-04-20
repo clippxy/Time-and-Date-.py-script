@@ -1,5 +1,5 @@
 # Welcome to My First GitHub Repo 🚀
-# Made with by clippxy
+# Made by clippxy
 
 import datetime
 
